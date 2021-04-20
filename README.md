@@ -1,7 +1,7 @@
 ### Hi there, I'm Ken 👋
 
 ## I'm a Full Time Student and Lifetime Learner
-
+- 💻 I'm currently working on my github.io page
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to collaborate with others on projects
 - 🥅 2021 Goals: Publish an Android Application
