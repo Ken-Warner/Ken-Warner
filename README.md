@@ -1,11 +1,11 @@
 ### Hi there, I'm Ken 👋
 
-## I'm a Full Time Student and Lifetime Learner
-- 💻 I'm currently working on my github.io page
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking to collaborate with others on projects
-- 🥅 2021 Goals: Publish an Android Application
-- ⚡ Fun fact: I play the guitar and love to cook
+## I'm a fresh graduate who is eager to learn more!
+- 💻 I'm currently working on my github.io page.
+- 🌱 I’m currently learning more UI principles.
+- 👯 I'm looking to collaborate with others on projects.
+- 🥅 2022 Goals: Monetize an application.
+- ⚡ Fun fact: I play the guitar and love to cook.
 
 ### Connect with me:
 
