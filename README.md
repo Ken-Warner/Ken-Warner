@@ -1,11 +1,11 @@
 ### Hi there, I'm Ken 👋
 
 ## I'm a fresh graduate who is eager to learn more!
-- 💻 I'm currently working on my github.io page.
-- 🌱 I’m currently learning more UI principles.
+- 💻 I'm currently working on a Macro Tracking SPA.
+- 🌱 I’m currently learning React!
 - 👯 I'm looking to collaborate with others on projects.
-- 🥅 2022 Goals: Monetize an application.
-- ⚡ Fun fact: I play the guitar and love to cook.
+- 🥅 2024 Goals: Finish learning React.
+- ⚡ Fun fact: I like to meal prep and play retro games!
 
 ### Connect with me:
 
