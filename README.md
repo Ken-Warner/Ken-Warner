@@ -1,6 +1,7 @@
 ### Hi there, I'm Ken 👋
 
-## I'm a fresh graduate who is eager to learn more!
+## I'm software engineer who is always ready to take on more projects.
+
 - 💻 I'm currently working on a Macro Tracking SPA.
 - 🌱 I’m currently learning React!
 - 👯 I'm looking to collaborate with others on projects.
@@ -27,5 +28,5 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" title="C#"/>
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" title="Android"/>
 
-[website]: https://www.github.com/Ken-Warner 
+[website]: https://www.github.com/Ken-Warner
 [linkedin]: https://www.linkedin.com/in/kenneth-warner-6705ab149/
